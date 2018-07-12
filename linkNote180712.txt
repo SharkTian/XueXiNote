@@ -65,3 +65,17 @@ https://www.cnblogs.com/MirageFox/p/5978150.html
 
 CSS3 transform的skew属性值图文详解
 https://www.cnblogs.com/mm2015/p/4812763.html
+
+浅析JavaScript设计模式——发布-订阅/观察者模式
+https://blog.csdn.net/q1056843325/article/details/53353850
+
+谈JS的观察者模式（自定义事件）
+https://www.cnblogs.com/LuckyWinty/p/5796190.html
+js实现观察者模式
+https://www.cnblogs.com/haoyijing/p/5761593.html
+
+javascript设计模式之观察者模式
+https://www.cnblogs.com/leejersey/p/4244332.html
+
+原生JavaScript实现观察者模式
+https://blog.csdn.net/lm278858445/article/details/78287492
