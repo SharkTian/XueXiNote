@@ -79,3 +79,6 @@ https://www.cnblogs.com/leejersey/p/4244332.html
 
 原生JavaScript实现观察者模式
 https://blog.csdn.net/lm278858445/article/details/78287492
+
+关于Vue.js面试题汇总
+https://zhuanlan.zhihu.com/p/35493203
