@@ -1,4 +1,4 @@
-阮一峰 博客
+﻿阮一峰 博客
 
 MVC，MVP 和 MVVM 的图示
 http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html
@@ -39,7 +39,7 @@ https://www.zhihu.com/question/31812150/answer/53501301
 
 
 
-SS布局 -- 圣杯布局 & 双飞翼布局
+cSS布局 -- 圣杯布局 & 双飞翼布局
 https://www.cnblogs.com/imwtr/p/4441741.html
 
 CSS3（三）Animation 入门详解
@@ -80,5 +80,487 @@ https://www.cnblogs.com/leejersey/p/4244332.html
 原生JavaScript实现观察者模式
 https://blog.csdn.net/lm278858445/article/details/78287492
 
+css脱离文档流到底是什么意思
+https://www.zhihu.com/question/24529373/answer/29135021
+
 关于Vue.js面试题汇总
 https://zhuanlan.zhihu.com/p/35493203
+
+前端基础面试题(JS部分)
+https://zhuanlan.zhihu.com/p/28428367
+
+JS实现快速排序算法的详细解释
+https://zhuanlan.zhihu.com/p/25992697
+
+用产品思维写好你的简历
+https://www.jianshu.com/p/ca1867413fa3
+
+
+http://www.zhufengpeixun.com/document/html/%E9%9D%A2%E8%AF%95%E6%8C%87%E5%AF%BC/%E8%B5%84%E6%BA%90%E5%9C%B0%E5%9D%80.html
+
+
+20180713
+path的join和resolve
+https://www.jianshu.com/p/78fadd20ee61
+
+html5: postMessage解决跨域和跨页面通信的问题
+https://www.cnblogs.com/stephenykk/p/7193845.html
+
+实现两个窗口通信方法－postMessage
+https://blog.csdn.net/zhuzhupozhuzhuxia/article/details/76795472
+
+JavaScript----什么是纯函数
+https://blog.csdn.net/c_kite/article/details/79138814
+
+阿里前端笔试总结
+https://mp.weixin.qq.com/s?__biz=MzIzNTU2ODM4Mw==&mid=2247484164&idx=2&sn=80b05ba4b150cb4c5c8f12cd9670e092&chksm=e8e46e94df93e78291f864cf18a3cfcd29e0daaa67cb278bd89171bdd52388920a6218f09a1b&scene=21#wechat_redirect
+
+破解前端面试 :80%应聘者都不及格的JS面试题
+https://mp.weixin.qq.com/s/V3qjTZmQRQ4g6MchxJfgbA
+
+JavaScript跨域原理
+https://mp.weixin.qq.com/s/HdeGNYhhFIxALR928xIRoA
+
+前端面试题：Vue常见面试题练习
+https://mp.weixin.qq.com/s/s55QrwN5ZQQD87Juxcu7og
+页面可视化搭建工具的前生今世
+https://mp.weixin.qq.com/s/AXlK1zqsYFZ-YyV-_NifGw
+https://github.com/kuitos/kuitos.github.io/issues/37
+
+JavaScript 事件对内存和性能的影响
+https://mp.weixin.qq.com/s/TljGgubPIkDoeSItL0tqjw
+
+Vue 生命周期深入
+https://mp.weixin.qq.com/s/gGHxJiGxhdsL_K44XYrPrQ
+
+浅谈Web自适应
+https://mp.weixin.qq.com/s/npHbJPyf8Iww2xXML1OFcg
+http://www.cnblogs.com/constantince/p/5708930.html
+
+JavaScript 的 API 设计原则
+https://mp.weixin.qq.com/s/dmmZqFSHenn_uVy6i6m2MQ
+http://www.cnblogs.com/constantince/p/5580003.html
+
+从 0 到一个线上项目就是这么简单
+https://mp.weixin.qq.com/s/AWOu4FQWKf18oW6oIBg7yA
+战胜前端面试中的算法问题，看这个就够了
+https://mp.weixin.qq.com/s/IIwH71d21GIFmPDby-7YpQ
+
+vue.js面试题总汇
+https://mp.weixin.qq.com/s/Ov7rZyVQQ8_AH7awJQtBLg
+
+【第1311期】浅析前端安全之 XSS
+https://mp.weixin.qq.com/s/c_QTdLu6vsYcIiuPRZyjyA
+【第1314期】JavaScript 引擎基础：Shapes 和 Inline Caches
+https://mp.weixin.qq.com/s/AWzJKF1bnPe1WFI3ti5cPA
+
+JavaScript 打怪升级 —— 把业务逻辑当练习题做
+https://mp.weixin.qq.com/s/i_WWGpiny3dKGai1X3fURw
+
+如何从零开始，形成自己的模块化思维方式？
+https://mp.weixin.qq.com/s/Jod11lbJeP0Ey8ysqYZJNg
+
+前端面试送命题-JS三座大山
+https://mp.weixin.qq.com/s/lmVcO3chre38jB1tlTJaZQ
+
+5 分钟掌握 JavaScript 实用窍门
+https://mp.weixin.qq.com/s/HXmHP_qPsMGTAXgLF4J1WA
+字号与行高
+https://mp.weixin.qq.com/s/-zUU5rHYNa6tG9oIWjjnQw
+
+函数防抖与函数节流
+https://mp.weixin.qq.com/s/xMCna_VtoOev0K5uK1J0aQ
+
+我接触过的前端数据结构与算法
+https://mp.weixin.qq.com/s/wGrTRDJIJIdwXNOZZIJHKQ
+
+JavaScript 的 this 原理
+https://mp.weixin.qq.com/s/cNWXVisYTxNMM7-FdwtzyQ
+深入理解JavaScript中的Call、Apply、This
+https://mp.weixin.qq.com/s/3UKdMGyYmZeh20gXBHnIrA
+
+Web 框架的架构模式探讨
+https://mp.weixin.qq.com/s/VzUSB-MYC98NUSdjLVFZ6g
+
+针对VUE框架中MVVM原理的初探并且在具体的项目中实践
+https://mp.weixin.qq.com/s/_U1m7CfiAPvDUEYOiLAe2g
+
+JavaScript 强制类型转换
+https://mp.weixin.qq.com/s/B48j5G3GzBLgECOCxMfAmA
+
+数组的遍历你都会用了，那Promise版本的呢
+https://mp.weixin.qq.com/s/iTS3fW-qGD9KKIkcbB2KOg
+
+【第1272期】从零开始搭建脚手架
+https://mp.weixin.qq.com/s/m8atIJzGEGnOV_utpijG2g
+
+面试题：你能写一个 Vue 的双向数据绑定吗？
+https://mp.weixin.qq.com/s/MGsEGejaADVHGlZFYQgCnQ
+
+从setTimeout/setInterval看JS线程
+https://mp.weixin.qq.com/s/FCy68lhFhEcm8o26f7970A
+
+Promise 异步流程控制
+https://mp.weixin.qq.com/s/wgNYckKT33-2DZ2pF36Dzg
+
+JavaScript This 的六道坎
+https://mp.weixin.qq.com/s/b_SojysoGA_Z7WLJrilizg
+
+你点的 ES6 小技巧，请查收
+https://mp.weixin.qq.com/s/hYXhcNn8K_x5bbfPJR8jxw
+
+从零开始手把手教你实现一个Virtual DOM
+https://mp.weixin.qq.com/s/viBtv7KSD70qrlAhUMsjDA
+
+JS 中原型和原型链深入理解
+https://mp.weixin.qq.com/s/AydF4A5fCaUKdoY2zRCcAQ
+
+毕业一年左右的前端妹子面经总结
+https://mp.weixin.qq.com/s/TvC-GySQ-Bsbi3heCqH8QQ
+https://segmentfault.com/a/1190000014730597
+
+
+https://mp.weixin.qq.com/s/VT135HKB8dFayGU4kHLwsQ
+
+
+
+无处不在的Babel
+https://mp.weixin.qq.com/s/vpN4wXBuukbVYI6-_j3UBw
+
+零基础学习前端开发不可不知的CSS原理
+https://mp.weixin.qq.com/s/s97p_l1-gkMk-jbaVSxC7w
+
+经典面试题(26)：以下代码将输出的结果是什么？
+https://mp.weixin.qq.com/s/eAyyIIg2A064Ck2kprWaWg
+
+【第1224期】追根溯源：箭头函数的前世今生
+https://mp.weixin.qq.com/s/_bwQjqsEd7YXak-UZ5P5JA
+
+Webpack 详解
+https://mp.weixin.qq.com/s/qafH6zyqxBYBrtcZe9gshg
+
+HTML5 中手势原理分析与数学知识的实践
+https://mp.weixin.qq.com/s/MrKU8MFK8XkCDB7vAp-6cQ
+
+CSS布局解决方案（终结版）
+https://mp.weixin.qq.com/s/SZfMqa3RPDvWTS_JR9IVqg
+
+【第1219期】从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理
+https://mp.weixin.qq.com/s/vIKDUrbuxVNQMi_g_fiwUA
+
+【第1216期】最全最好用的动效落地方法、都帮你总结好了（上）
+https://mp.weixin.qq.com/s/qpU2cw1Es7a_wM9Y35LyVg
+
+JavaScript 中 this 的运行机制及爬坑指南
+https://mp.weixin.qq.com/s/lZ4R3JhefG0kASQLxSx7Aw
+
+关于 Vue.js：那些好的，不怎么样的和糟糕的
+https://mp.weixin.qq.com/s/y7kI2pX7PY_5fQemBGl3Aw
+
+Javascript 将 HTML 页面生成 PDF 并下载
+https://mp.weixin.qq.com/s/13EF1SfGopBAeJeacLXNhA
+
+js面试题Foo.getName()的故事
+https://blog.csdn.net/mongo__/article/details/72810338
+
+js获取元素的偏移量offset简单方法(必看)
+https://www.jb51.net/article/117848.htm
+
+JavaScript offsetTop
+http://www.softwhy.com/article-2513-1.html
+
+JS-------DOM0级事件处理和DOM2级事件处理-------简单记法
+https://www.cnblogs.com/holyson/p/3914406.html
+
+js你真的了解offsetWidth吗
+https://www.cnblogs.com/huaci/p/3863797.html
+
+
+
+JavaScript 事件对内存和性能的影响
+https://mp.weixin.qq.com/s/TljGgubPIkDoeSItL0tqjw
+JavaScript跨域原理
+https://mp.weixin.qq.com/s/HdeGNYhhFIxALR928xIRoA
+Promise 异步流程控制
+https://mp.weixin.qq.com/s/wgNYckKT33-2DZ2pF36Dzg
+【第1311期】浅析前端安全之 XSS
+https://mp.weixin.qq.com/s/c_QTdLu6vsYcIiuPRZyjyA
+JavaScript跨域方法实例详解
+https://mp.weixin.qq.com/s/Al9BCHXilpR5e3bBvDsGXA
+史上前端面试最全问答（附答案）
+https://mp.weixin.qq.com/s/07d-KkW_7lygSo1bAM4gAg
+
+20180714
+饥人谷
+https://jirengu.com/app/album/index
+
+https://xiedaimala.com/
+https://jirengu.com/
+前端学习指南
+https://zhuanlan.zhihu.com/study-fe
+
+当Promise遇到if-else分支，需要走不同的链时如何处理啊?
+https://www.zhihu.com/question/55866176
+
+
+Promise.then(fill) 中如何在 fill 的异步逻辑中改变PromiseStatus?
+https://www.zhihu.com/question/264383428
+
+30分钟，让你彻底明白Promise原理
+https://segmentfault.com/a/1190000009478377
+
+http://coderlt.coding.me/2016/12/04/promise-in-depth-an-introduction-2/
+深入理解 Promise (上)
+http://coderlt.coding.me/2016/12/03/promise-in-depth-an-introduction-1/
+
+Mutation Observer API
+http://javascript.ruanyifeng.com/dom/mutationobserver.html
+
+前端静径
+
+https://mengera88.github.io/
+
+
+ES6 JavaScript Promise的感性认知
+https://www.zhangxinxu.com/wordpress/2014/02/es6-javascript-promise-%E6%84%9F%E6%80%A7%E8%AE%A4%E7%9F%A5/
+
+通俗浅显的理解Promise中的then
+https://segmentfault.com/a/1190000010420744
+
+Generator的正确打开方式
+https://blog.csdn.net/h_k10086/article/details/80331447
+
+async 函数的含义和用法
+http://www.ruanyifeng.com/blog/2015/05/async.html
+
+Generator 函数的含义与用法
+http://www.ruanyifeng.com/blog/2015/04/generator.html
+
+Thunk 函数的含义和用法
+http://www.ruanyifeng.com/blog/2015/05/thunk.html
+
+Javascript异步编程的4种方法
+http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html
+
+20180715
+Generator的正确打开方式 容易懂的一遍博客
+https://blog.csdn.net/h_k10086/article/details/80331447
+用 async/await 来处理异步 容易懂的一遍博客
+https://www.cnblogs.com/SamWeb/p/8417940.html
+理解 JavaScript 的 async/await
+https://segmentfault.com/a/1190000007535316
+
+Ajax工作原理
+http://www.cnblogs.com/mingmingruyuedlut/archive/2011/10/18/2216553.html
+
+JavaScript之模块化编程
+http://www.cnblogs.com/syfwhu/p/4883532.html
+
+如何在vue项目中引入stylus
+https://jingyan.baidu.com/article/ca00d56c3c8eace99eebcf05.html
+
+在vue项目中使用stylus
+https://blog.csdn.net/shooke/article/details/75907388
+
+微信小程序：一个json帮你完成分享朋友圈图片
+https://juejin.im/post/5b481d216fb9a04fdb16a88f
+
+React 学习路线图 - 2018版
+https://juejin.im/entry/5b49af6d6fb9a04fe25ec224
+
+面试官：请手写一个webpack4.0配置
+https://juejin.im/post/5b4609f5e51d4519596b66a7
+
+总结了17年初到18年初百场前端面试的面试经验(含答案)
+https://juejin.im/post/5b44a485e51d4519945fb6b7
+
+手把手教你封装 Vue 组件，并使用 npm 发布
+https://juejin.im/post/5b45df255188251b1d474860
+
+论低于 12px 字体处理方案
+https://juejin.im/post/5b4812a05188251b20016fcc
+
+[译] 图解 React
+https://juejin.im/post/5b481f6b51882519ad6175c2
+
+你真的理解setState吗？
+https://juejin.im/post/5b45c57c51882519790c7441
+
+vue项目技术随笔
+https://juejin.im/post/5b349e0e518825749d2d66ee
+
+VS Code 折腾记 - (14) 
+再来推荐一波大前端适用系列 
+(Node/React/Vue/小程序/主题/代码体验等) 的插件
+https://juejin.im/post/5b3d9378f265da0f6012eb65
+
+应用于 Hybrid App 的 Vue 多页面构建
+https://juejin.im/post/5b4815bbf265da0f9d19efae
+创建前端数据模型，vue开发必备
+https://juejin.im/post/5b431d9ef265da0f9e58810b
+从零开始学习如何部署代码
+https://juejin.im/post/5b45f4f7f265da0fab400502
+
+
+小技巧-cmd常用命令之创建文件
+https://blog.csdn.net/sunjinshengli/article/details/53557684
+
+Sublime Text 3 LESS、SASS、SCSS高亮插件、提示插件
+https://blog.csdn.net/u013022210/article/details/48729281
+
+vscode和stylus通
+https://blog.csdn.net/kiven_wolf/article/details/78473219
+直接使用sublime编译stylus
+https://segmentfault.com/a/1190000005148959
+
+Sublime下建立Node编译系统
+https://segmentfault.com/a/1190000008307328
+
+sublime3 常用插件（必备）一直更新中……
+https://blog.csdn.net/mrhaoxiaojun/article/details/53204271
+
+"compilePaths": {"E:\\LEARN\\learnstylus\\src": "E:\\LEARN\\learnstylus\\css"}  //输出路径
+
+Stylus实践之安装使用图解
+https://jingyan.baidu.com/article/3d69c55133f1a6f0cf02d71c.html
+
+sublime text 快捷键修改以及主题的修改
+https://blog.csdn.net/qq_39047764/article/details/79053545
+
+sublime 修改缩进
+https://blog.csdn.net/raul272/article/details/50370402
+
+Javascript 中的神器——Promise
+https://www.jianshu.com/p/063f7e490e9a
+
+Stylus-NodeJS下构建更富表现力/动态/健壮的CSS
+https://www.zhangxinxu.com/wordpress/2012/06/stylus-nodejs-expressive-dynamic-robust-css/
+stylus中文版参考文档之导入(@import)
+https://www.zhangxinxu.com/jq/stylus/import.php
+
+[Node.js] util.promisify
+https://www.jianshu.com/p/2f9a6692778a
+https://www.jianshu.com/u/f6393998072f
+
+nodejs v8中使用util.promisify()
+https://www.xiaoboy.com/topic/node-v8-util-promisify.html
+
+
+Javascript 中的神器——Promise
+https://www.jianshu.com/p/063f7e490e9a
+
+180715
+常见前端面试题及答案
+http://www.cnblogs.com/syfwhu/p/4434132.html
+
+unescape 不能再用！
+https://blog.csdn.net/unopenmycode/article/details/78835545
+
+提升JavaScript递归效率：Memoization（避免重复运算）技术详解
+https://blog.csdn.net/hsany330/article/details/8235307
+
+Query的deferred对象使用详解
+https://www.cnblogs.com/PengLee/p/5657101.html
+
+在NodeJs中使用jQuery？容易懂的博文
+https://blog.csdn.net/yanyang1116/article/details/54863085
+
+jQuery的deferred对象详解
+http://www.ruanyifeng.com/blog/2011/08/a_detailed_explanation_of_jquery_deferred_object.html
+
+
+NodeJS添加Jquery依赖
+https://www.cnblogs.com/codermen/p/7943678.html
+
+利用jQuery的deferred异步按顺序加载JS文件
+https://www.cnblogs.com/artwl/archive/2013/03/13/2958052.html
+
+jQuery API 中文文档
+https://www.jquery123.com/
+
+0715 5:25
+前端基础面试题(JS部分)
+https://zhuanlan.zhihu.com/p/28428367
+78.解释"deferreds"。
+https://www.cnblogs.com/syfwhu/p/4434132.html
+Ajax工作原理
+http://www.cnblogs.com/mingmingruyuedlut/archive/2011/10/18/2216553.html
+JavaScript之模块化编程
+http://www.cnblogs.com/syfwhu/p/4883532.html
+
+总结了17年初到18年初百场前端面试的面试经验(含答案)
+https://juejin.im/post/5b44a485e51d4519945fb6b7
+
+利用star法则，写出hr约你的简历
+https://www.jianshu.com/p/5752426dbc56
+STAR法则写简历
+https://blog.csdn.net/u___u/article/details/70054223
+简历中使用STAR法则
+https://blog.csdn.net/jungle_hello/article/details/51386199
+Cocos2d-JS实现的贪吃蛇
+http://www.cnblogs.com/hjcenry/p/5856946.html
+白鹭时代 - Egret
+https://www.egret.com/index
+
+Sublime Text 新建文件的模版插件: SublimeTmpl
+https://xhl.me/archives/sublime-template-engine-sublimetmpl/
+
+sublime text 配置本地静态服务器方法
+https://blog.csdn.net/zfangls/article/details/55100256?locationNum=5&fps=1
+https://jingyan.baidu.com/article/fc07f989b0dfc812fee51975.html
+
+
+jQuery获取文本节点之 text()/val()/html() 方法区别
+https://www.cnblogs.com/ningheshutong/p/5505435.html
+
+JavaScript(jQuery)中的事件委托
+https://www.cnblogs.com/zhoushengxiu/p/5703095.html
+
+JS实现数组去重方法总结(六种方法)
+https://www.jb51.net/article/118657.htm
+
+什么情况下用递归？
+https://www.cnblogs.com/jiutiankunpeng/p/4485149.html
+https://bbs.csdn.net/topics/10133896
+
+递归算法终极理解—用人脑理解递归算法
+https://blog.csdn.net/theknotyouknow/article/details/24435291
+
+数学妙啊 妙
+https://www.zhihu.com/pub/reader/119554814/chapter/873638612602867712
+
+八卦微积分
+https://www.zhihu.com/publications/hour/119554223?utm_source=bookstore&utm_campaign=bookcontent&utm_medium=book_weekly_165
+为什么说递归效率低？
+https://www.zhihu.com/publications/hour/119554223?utm_source=bookstore&utm_campaign=bookcontent&utm_medium=book_weekly_165
+
+
+柯里化和偏函数有什么区别？
+https://segmentfault.com/q/1010000008626058
+
+zepto.js 中文文档
+http://www.css88.com/doc/zeptojs_api/#
+
+Underscore.js 中文文档
+http://www.css88.com/doc/underscore/#
+
+vascript里的偏函数——本质函数式编程+闭包，返回函数
+https://www.cnblogs.com/bonelee/p/6102535.html
+
+Object.keys()
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
+
+Velocity.js 中文文档
+http://www.mrfront.com/docs/velocity.js/index.html
+
+baiduTemplate / artTemplate
+https://www.jianshu.com/p/56d49687b6f5
+http://baidufe.github.io/BaiduTemplate/
+
+2017 年用于 UI 设计的 CSS3 和 JavaScript 动画库(TOP 9)
+http://www.css88.com/archives/7389#animatecss
+http://yunkus.com/animate-css-tutorial/
+
+Lodash 中文文档
+http://www.css88.com/doc/lodash/#_chunkarray-size1
+
